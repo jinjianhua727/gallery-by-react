@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-// import imageDates from '../data/imageDates.json';
-import imageDates from './test.json';
+import imageDates from './imageDatas.json';
 // console.log(imageDates)
 // 获取图片数据
 var imagedates = (function(imageDatesArr){
